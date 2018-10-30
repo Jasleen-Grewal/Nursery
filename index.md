@@ -1,5 +1,8 @@
 # Invoice
 
+## Fritzing
+![untitled sketch_bb](https://user-images.githubusercontent.com/43180933/47751096-43adb580-dc67-11e8-9d7b-385b1a163744.png)
+
 ## Breadboarding 
 Resolution: Kristian refered me to kelly/Vlad for the issue in the breadboarding of my sensor.
 Initial Breadboarding:
