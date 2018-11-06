@@ -11,6 +11,8 @@ My sensor is working now
 ![whatsapp image 2018-10-25 at 9 28 35 pm 1](https://user-images.githubusercontent.com/43180933/47597854-9df60000-d961-11e8-80e7-67cb6ff353da.jpeg)
 
 ![whatsapp image 2018-10-25 at 9 28 35 pm](https://user-images.githubusercontent.com/43180933/47597862-b239fd00-d961-11e8-960c-9d9d833bcc54.jpeg)
+##PCB
+![sensor_pcb](https://user-images.githubusercontent.com/43180933/48093062-4dda3180-e1dc-11e8-9711-40fb660170dd.jpg)
 
 
 
