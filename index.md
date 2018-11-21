@@ -1,4 +1,6 @@
 # Invoice
+##Working of OLED Display:
+![sensor](https://user-images.githubusercontent.com/43180933/48816773-7f411a00-ed11-11e8-8dbb-e1c458ded3bb.jpg)
 ##PCB in real
 ![pcb](https://user-images.githubusercontent.com/43180933/48099161-b5987880-e1ec-11e8-977b-598e06d49b42.jpg)
 
