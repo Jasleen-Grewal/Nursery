@@ -8,6 +8,11 @@ In my project I will work to make my OLED display working with raspberry pi 3. B
 ![displaycase1](https://user-images.githubusercontent.com/43180933/48969782-86964b00-efd1-11e8-8684-c71ecbbe5580.jpeg)
 ![displaycase2](https://user-images.githubusercontent.com/43180933/48969788-944bd080-efd1-11e8-9d62-35fdec00699b.jpeg)
 
+### Corel Draw of my file could be found [here](https://github.com/Jasleen-Grewal/Nursery/blob/master/jasleenCase.cdr)
+### This is how my corel diagram looks like:
+![case](https://user-images.githubusercontent.com/43180933/48984224-37cadd00-f0c7-11e8-8378-0a1d9abfb3ef.PNG)
+
+
 
 ### November 20, 2018
  In this week I have to design case for my OLED display. As size of my PCB is quite large therefore it becomes hard for me to disgn the case of for my display. Kelly suggests me to redeign a smaller PCB so that it fits in the raspberry pi case and we need to change its height.
