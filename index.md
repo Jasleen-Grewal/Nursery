@@ -2,6 +2,8 @@ OLED MONOCHROME GRAPHIC DISPLAY
 ===============================
 
 In my project I will work to make my OLED display working with raspberry pi 3. Basically my display will show the current readings of temperature, humidity and moisture level in soil. I am storing these values in my database and I will retrive these values using python code.
+### November 27, 2018
+Here is the link to my powerpoint presentation for my hardware project: [link](https://github.com/Jasleen-Grewal/Nursery/blob/master/JasleenKaur.pptx)
 
 ### November 23, 2018
  After redesigning my PCB I figured that I have to change the height, length and width to make it fit in raspberry pi case. I takes me around 3-4 hours to design case for my display because I have to change dimensions keeping even minor measurements in mind. But finally I made my case with the help of Kelly:
