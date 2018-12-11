@@ -45,7 +45,8 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
 **Here is a link to my python [code](https://github.com/adafruit/Adafruit_Python_SSD1306)**
 ![pythoncode](https://user-images.githubusercontent.com/43180933/49834174-bf704700-fd69-11e8-9fed-bae6b7422870.PNG)
 ## Testing
-When I run my pyhton code I got my display working.
+When I run my pyhton code I got my display working.<br>
+
 ![testing](https://user-images.githubusercontent.com/43180933/49834540-a2884380-fd6a-11e8-89b5-312743589c27.PNG)
 
 
