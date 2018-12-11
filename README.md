@@ -18,6 +18,15 @@ Overall project is planned to complete in 15 weeks but if someone already purcha
 ## System Diagram
 ![systemdiagram](https://user-images.githubusercontent.com/43180933/49834777-4114a480-fd6b-11e8-815e-42ef9fa89a5a.PNG)
 
+## Mechanical Assembly
+![pinlayout](https://user-images.githubusercontent.com/43180933/49834382-3c032580-fd6a-11e8-9d43-70839d13152f.PNG)
+
+## PCB Design:
+For my PCB design I made my fritzing diagram and sent gerber files to humber prototype lab to get my PCB design
+Link to my fritzing diagram is [here](https://github.com/Jasleen-Grewal/Nursery/blob/master/sensor.fzz)
+
+![pcbdesign](https://user-images.githubusercontent.com/43180933/49835658-ef214e00-fd6d-11e8-8c91-eb5a7f47f169.PNG)
+
 ## Setting up Raspberry Pi
 After receiving the order, the first step is installing Raspian on Raspberry Pi.These are the steps for installation as given below:-<br>
 **Step 1: Download Raspbian**<br>
@@ -31,9 +40,6 @@ Select the drive of your SD card in the ‘Device’ dropdown.
 
 **Step 4: Put the microSD card in your Pi and boot up**<br>
 Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete.
-
-## Mechanical Assembly
-![pinlayout](https://user-images.githubusercontent.com/43180933/49834382-3c032580-fd6a-11e8-9d43-70839d13152f.PNG)
 
 ## Writing the Script for monochrome OLED Display
 Here is a link to my python [code](https://github.com/adafruit/Adafruit_Python_SSD1306)
