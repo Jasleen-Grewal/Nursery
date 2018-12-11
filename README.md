@@ -61,6 +61,6 @@ To provide a case for my display you can use my coreldraw file to get similar en
 ![enclosure](https://user-images.githubusercontent.com/43180933/49835880-a1f1ac00-fd6e-11e8-872a-5ee516fe5049.PNG)
 
 ## Production Testing
-By default my display has SPI circuit, therefore I have to change the position of resistor to get it working using i2c and to get the address of my sensor.
+By default my display has SPI circuit, therefore I have to change the position of resistor to get it working using i2c and to get the address of my sensor. Therefore, for mass production of working of this display manufacturer can change its circuit from SPI to I2C so that no time get wasted for the proper working of display.
 
 
