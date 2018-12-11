@@ -11,6 +11,9 @@ The stuff required to make my OLED working is Raspberry pi kit, which I brought 
 ![budgetforhardware](https://user-images.githubusercontent.com/43180933/49705945-59ac7f80-fbf0-11e8-821e-965189972120.PNG)
 
 ## Time Commitment
+Overall project is planned to complete in 15 weeks but if someone already purchased the raspberry pi and OLED display, I can say that it will just take around 2-3 weeks to rebuild the whole project except the time required to design the PCB for the display.<br>
+
+![schedule](https://user-images.githubusercontent.com/43180933/49832270-27bc2a00-fd64-11e8-983a-34ea43f0a31d.PNG)
 
 ## Setting up Raspberry Pi
 After receiving the order, the first step is installing Raspian on Raspberry Pi.These are the steps for installation as given below:-<br>
