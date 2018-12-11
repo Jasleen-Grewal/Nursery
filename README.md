@@ -49,4 +49,9 @@ When I run my pyhton code I got my display working.<br>
 
 ![testing](https://user-images.githubusercontent.com/43180933/49834540-a2884380-fd6a-11e8-89b5-312743589c27.PNG)
 
+## Enclosure:
+To provide a case for my display you can use my coreldraw file to get similar enclosure as below:<br>
+
+![enclosure](https://user-images.githubusercontent.com/43180933/49835880-a1f1ac00-fd6e-11e8-872a-5ee516fe5049.PNG)
+
 
