@@ -15,6 +15,9 @@ Overall project is planned to complete in 15 weeks but if someone already purcha
 
 ![schedule](https://user-images.githubusercontent.com/43180933/49832270-27bc2a00-fd64-11e8-983a-34ea43f0a31d.PNG)
 
+## System Diagram
+![systemdiagram](https://user-images.githubusercontent.com/43180933/49834777-4114a480-fd6b-11e8-815e-42ef9fa89a5a.PNG)
+
 ## Setting up Raspberry Pi
 After receiving the order, the first step is installing Raspian on Raspberry Pi.These are the steps for installation as given below:-<br>
 **Step 1: Download Raspbian**<br>
