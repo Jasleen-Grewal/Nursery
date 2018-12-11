@@ -29,6 +29,9 @@ Select the drive of your SD card in the ‘Device’ dropdown.
 **Step 4: Put the microSD card in your Pi and boot up**<br>
 Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete.
 
+## Mechanical Assembly
+![pinlayout](https://user-images.githubusercontent.com/43180933/49834382-3c032580-fd6a-11e8-9d43-70839d13152f.PNG)
+
 ## Writing the Script for monochrome OLED Display
 Here is a link to my python [code](https://github.com/adafruit/Adafruit_Python_SSD1306)
 ![pythoncode](https://user-images.githubusercontent.com/43180933/49834174-bf704700-fd69-11e8-9fed-bae6b7422870.PNG)
