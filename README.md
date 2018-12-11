@@ -21,6 +21,12 @@ Overall project is planned to complete in 15 weeks but if someone already purcha
 ## Mechanical Assembly
 ![pinlayout](https://user-images.githubusercontent.com/43180933/49834382-3c032580-fd6a-11e8-9d43-70839d13152f.PNG)
 
+## Unit Testing:
+To test that display is working fine, we can get the address of the display using the command sudo i2cdetect -y 
+ and make connections on breadboard using circuit mentioned in mechanical Assembly.<br>
+ 
+ ![connections](https://user-images.githubusercontent.com/43180933/49836050-42e06700-fd6f-11e8-9c98-8a912269ce1c.PNG)
+
 ## PCB Design:
 For my PCB design I made my fritzing diagram and sent gerber files to humber prototype lab to get my PCB design
 Link to my fritzing diagram is [here](https://github.com/Jasleen-Grewal/Nursery/blob/master/sensor.fzz)
